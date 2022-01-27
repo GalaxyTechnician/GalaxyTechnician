@@ -1,4 +1,9 @@
-<h1>Information</h1>
-<p>- <b>Discord Username:</b> <code>📗<a href="https://cdn.discordapp.com/attachments/904226741441134603/911548990418472960/Capture.PNG">GalaxyTechnician#9634</a></code></p>
-<p>- <b>Developer Of:</b> <code>🐼<a href="https://top.gg/bot/909390016919273513">PandaCommands#5463</a></code></p>
-- <b>Discord Server:</b> <code>🍀<a href="https://discord.gg/F4hSqzDKgw">Join</a></code>
+<h1>Description</h1>
+<hr>
+<p>I'm a <code>13</code> years old kid and i love coding since i discover <code>Javascript</code> in some site, I practice to use <code>Javascript</code> and now my favorite code language is <code>Javascript</code> That's how i become a simple coder, My first project is a discord bot but now i deleted it because it's not enough to be a public bot but now i'm trying to recover it again and again to make it public but still doesn't work so for now I'll just going to learn new things about <code>Javascript</code>, Also i'm glad that i have a github account and other account in social media.</p>
+<h1>Contacts</h1>
+<hr>
+<b>Discord Tag:</b> <code>GalaxyTechnician#9634</code><br>
+<b>Discord Guild:</b> <code><a href="https://discord.gg/TggNEGhhFp">https://discord.gg/PandasWorld</a></code><br>
+<b>YT Channel:</b> <code><a href="https://www.youtube.com/channel/UCIg-y6GYsykuprV-Rt5_www">https://youtube.com/GalaxyTechnician</a></code><br>
+<b>Github Acc:</b> <code><a href="https://github.com/GalaxyTechnician">https://github.com/GalaxyTechnician</a></code><br>
