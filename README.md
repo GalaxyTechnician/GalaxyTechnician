@@ -4,6 +4,6 @@
 <h1>Contacts</h1>
 <hr>
 <b>Discord Tag:</b> <code>GalaxyTechnician#9634</code><br>
-<b>Discord Guild:</b> <code><a href="https://discord.gg/TggNEGhhFp">https://discord.gg/PandasWorld</a></code><br>
+<b>Discord Guild:</b> <code><a href="https://discord.gg/hcygE2dnwe">https://discord.gg/CygnusCity</a></code><br>
 <b>YT Channel:</b> <code><a href="https://www.youtube.com/channel/UCIg-y6GYsykuprV-Rt5_www">https://youtube.com/GalaxyTechnician</a></code><br>
 <b>Github Acc:</b> <code><a href="https://github.com/GalaxyTechnician">https://github.com/GalaxyTechnician</a></code><br>
